@@ -2,6 +2,10 @@
 
 This is a repository for the Odin Project's [Recipes Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes).
 
+## Challenge
+
+Create a basic HTML page with a list of recipes.
+
 ## What I learned
 
 - How to create a basic HTML page
